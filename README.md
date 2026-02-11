@@ -15,8 +15,8 @@ The datasets include Public Land Survey (PLS) section polygons for two criticall
 Each basin folder contains Public Land Survey (PLS) section polygons with both input and processed suitability data.
 
 **Web Applications:**  
-* Kaweah Tool: [169.236.229.50:3838/Kaweah_OpenApp/]
-* Tule Tool: [169.236.229.50:3838/Tule_OpenApp/]
+* Kaweah Tool: http://169.236.229.50:3838/Kaweah_OpenApp/
+* Tule Tool: http://169.236.229.50:3838/Tule_OpenApp/
 
 ---
 
